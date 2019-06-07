@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring4MVCAngularJSRoutingWithUIRouterExample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Spring4MVCAngularJSRoutingWithUIRouterExample.war">
+      <element id="artifact" artifact-name="Spring4MVCAngularJSRoutingWithUIRouterExample:war exploded" />
+    </root>
+  </artifact>
+</component>
